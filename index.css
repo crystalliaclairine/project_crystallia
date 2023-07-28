@@ -15,3 +15,41 @@ body {
 .bg-tertiary {
     background-color: var(--tertiary-color);
 }
+#card {
+    border-radius: 5%;
+}
+#user {
+    border: 1px solid cyan;
+    border-radius: 10%;
+    padding: 20px;
+}
+#brain {
+    border: 1px solid red;
+    border-radius: 10%;
+    padding: 20px;
+}
+#idea {
+    border: 1px solid yellow;
+    border-radius: 10%;
+    padding: 20px;
+}
+#time {
+    border: 1px solid green;
+    border-radius: 10%;
+    padding: 20px;
+}
+.img1:hover {
+    background-color:  rgb(51, 50, 50);
+}
+.border2 {
+    border: 2px solid gray;
+}
+.border2:hover {
+    border-color: blue;
+}
+.footer {
+    background-color: #02132d43;
+}
+.footer p{
+    color: gray;
+}
